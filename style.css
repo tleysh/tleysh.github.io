@@ -354,7 +354,6 @@ section:last-child {
 	animation-delay: 0, 2.5s;
 }
 
-a:visited, a:hover, a:focus {
-    text-decoration: none;
+a:visited{
     color:  #0000EE;
 }
